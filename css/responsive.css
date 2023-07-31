@@ -1,0 +1,44 @@
+@media (min-width: 250px) and (max-width: 750px) {
+    #gamedesk .play-card {
+        width: 100%;
+    }
+
+    #gamedesk .play-card .heading {
+        font-size: 43px;
+    }
+
+    #gamedesk .play-card .heading2 {
+        font-size: 25px;
+    }
+
+    #gamedesk .play-card .sub_btn,
+    .p1sub_btn,
+    .p1_numsub_btn,
+    .p2sub_btn,
+    .p2_numsub_btn,
+    .rematch {
+        font-size: 22px;
+        padding: 5px 40px;
+        margin-top: 30px;
+    }
+
+    #gamedesk .play-card .p1input,
+    .p1_numinput,
+    .p2input,
+    .p2_numinput {
+        padding: 10px 25px;
+        font-size: 17px;
+        margin-top: 30px;
+    }
+
+    #gamedesk .play-card .p1error,
+    .p1_numerror,
+    .p2error,
+    .p2_numerror {
+        font-size: 17px;
+    }
+
+    .p2_numinput {
+        margin-top: 0;
+    }
+}
